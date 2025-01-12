@@ -26,6 +26,7 @@ A simple **earthquake FiveM resource** is a custom script or mod designed to enh
 ### support:
 [Discord](https://discord.gg/E3q4tuPmSQ)
 
+![Untitled design](https://github.com/user-attachments/assets/f152e4cd-95be-4660-83ca-03b3dc3251cd)
 
 
 ### Conclusion:
