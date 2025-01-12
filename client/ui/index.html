@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>bsm_earthquake</title>
+</head>
+<body>
+
+    <!-- Earthquake sound -->
+    <audio id="sound" src="sounds/blossom.mp3" preload="auto"></audio>
+
+    <script>
+        const sound = document.getElementById('sound');
+
+        // Listen for messages
+        window.addEventListener('message', (event) => {
+            const { type, volume } = event.data;
+
+            // Only process 'play' type messages
+            if (type !== 'play') return;
+
+            // Reset and play the sound with the specified volume
+            sound.currentTime = 0;
+            sound.volume = volume;
+            sound.play();
+        });
+    </script>
+
+</body>
+</html>
