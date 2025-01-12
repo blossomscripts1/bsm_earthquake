@@ -19,7 +19,7 @@ A simple **earthquake FiveM resource** is a custom script or mod designed to enh
 ### support:
 [Discord](https://discord.gg/E3q4tuPmSQ)
 
-https://cdn.discordapp.com/attachments/1017503986141630474/1327974286065139803/bsm.png?ex=678503ee&is=6783b26e&hm=49219e3a2d2adc546c0ad742b2d115efa971af9b222b46096a4805e889a37c69&
+[image](https://cdn.discordapp.com/attachments/1017503986141630474/1327974286065139803/bsm.png?ex=678503ee&is=6783b26e&hm=49219e3a2d2adc546c0ad742b2d115efa971af9b222b46096a4805e889a37c69&)
 
 ### Conclusion:
-A **simple earthquake resource** is an effective and fun addition to any FiveM server, allowing for random or scripted seismic events to occur, enhancing roleplay scenarios, and providing an immersive environmental effect. The Ace-restricted `/earthquake` command ensures that only players with the right permissions can activate this event, making it a controlled and exciting feature for administrators and players alike.
+A **simple earthquake resource** is an effective and fun addition to any FiveM server, allowing for random or scripted seismic events to occur, enhancing roleplay scenarios, and providing an immersive envihttps://cdn.discordapp.com/attachments/1017503986141630474/1327974286065139803/bsm.png?ex=678503ee&is=6783b26e&hm=49219e3a2d2adc546c0ad742b2d115efa971af9b222b46096a4805e889a37c69&ronmental effect. The Ace-restricted `/earthquake` command ensures that only players with the right permissions can activate this event, making it a controlled and exciting feature for administrators and players alike.
