@@ -14,10 +14,10 @@ A simple **earthquake FiveM resource** is a custom script or mod designed to enh
 6. **Server Resource Management**: The script is usually lightweight, meaning it won't heavily impact server performance. It will run efficiently in the background until triggered, ensuring that the main game experience is not disrupted, while still offering a unique event that can affect the gameplay environment.
 
 ### showcase:
-youtube - https://youtu.be/rHhAYM2NJJg
+(youtube)[https://youtu.be/rHhAYM2NJJg]
 
 ### support:
-Discord - https://discord.gg/E3q4tuPmSQ
+(Discord)[https://discord.gg/E3q4tuPmSQ]
 
 ### Conclusion:
 A **simple earthquake resource** is an effective and fun addition to any FiveM server, allowing for random or scripted seismic events to occur, enhancing roleplay scenarios, and providing an immersive environmental effect. The Ace-restricted `/earthquake` command ensures that only players with the right permissions can activate this event, making it a controlled and exciting feature for administrators and players alike.
